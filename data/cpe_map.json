@@ -1,0 +1,21 @@
+{
+    "msrpc": ["cpe:/o:microsoft:windows"],
+    "microsoft-ds": ["cpe:/o:microsoft:windows"],
+    "http": ["cpe:/a:generic:web_server"],
+    "https": ["cpe:/a:generic:web_server"],
+    "ftp": ["cpe:/a:generic:ftp_server"],
+    "ssh": ["cpe:/a:openssh:openssh"],
+    "mysql": ["cpe:/a:mysql:mysql"],
+    "mssql": ["cpe:/a:microsoft:sql_server"],
+    "postgresql": ["cpe:/a:postgresql:postgresql"],
+    "smtp": ["cpe:/a:generic:smtp_server"],
+    "imap": ["cpe:/a:generic:imap_server"],
+    "pop3": ["cpe:/a:generic:pop3_server"],
+    "dns": ["cpe:/a:generic:dns_server"],
+    "rdp": ["cpe:/a:microsoft:remote_desktop_protocol"],
+    "vnc": ["cpe:/a:realvnc:realvnc"],
+    "telnet": ["cpe:/a:generic:telnet_server"],
+    "mongodb": ["cpe:/a:mongodb:mongodb"],
+    "redis": ["cpe:/a:redis:redis"],
+    "docker": ["cpe:/a:docker:docker"]
+}

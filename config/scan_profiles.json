@@ -1,0 +1,14 @@
+{
+    "fast": {
+        "description": "Fast scan of common ports",
+        "command": "-sV -T4 --script=banner"
+    },
+    "full_tcp": {
+        "description": "Full TCP port scan",
+        "command": "-sV -p- -T4 --script=banner"
+    },
+    "lab_udp": {
+        "description": "Lab-safe UDP scan (slow)",
+        "command": "-sU --top-ports 50"
+    }
+}
