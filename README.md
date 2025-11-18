@@ -1,4 +1,4 @@
-# 🔍 AutoVuln-Lite  
+# 🔍 AutoVuln-Lite  (Pro Version With AI support releasing soon!)
 A lightweight, fast, and offline-capable **CPE → CVE Vulnerability Scanner** built using Python and Nmap.
 
 AutoVuln-Lite performs:
